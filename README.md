@@ -1,6 +1,28 @@
-# 💫 About Me:
-My name is AashleshaI have 5.5 years of experience in Python Automation and ERP system Oddo and Robot framework. I really enjoy working with Automation and developed scalable code which save manual efforts.<br><br>I began my career at Maatwerk IT as an Odoo Developer,I have contributed to developing module integrated with sale purchase and inventory app in Oddo.I have focused on building scalable systems, migrating code from version 7 to version 13.<br><br>Recently I worked as a Python Automation Engineer within an Agile team where I build and manage framework to Automate Workday process using Python and Robot framework, selenium. I design framework for file comparison from two financial application using pandas, numpy and developing report to save time improve performance and reduce costs. <br><br>Currently, I am upskilling in cloud technologies, specifically working with Docker containers, AWS ECS, and Fargate. Alongside this, I am exploring modern automation tools such as Playwright and exploring Python libraries like Streamlit for building data-driven applications.<br><br>Recently I completed GenAI Job Simulation program by Forage.I actively contribute to my GitHub repos and recently Built an interactive Python application leveraging Streamlit and Ollama to provide offline, context-aware language translation using local LLMs also developed an AQI Tracker project using Python and Streamlit, which allows users to track air quality for different cities across world. I applied cloud concepts to this project by containerizing the application with Docker and deploying it on AWS ECS using Fargate. I have also set up and tested AWS CI/CD pipeline to automate build and deployment.<br><br>In addition, I have built an automation project using Playwright for the SauceDemo website, following the Page Object Model design pattern to structure test cases, improve maintainability, and simulate real user flows.<br>
+Hi there, I'm Aashlesha 👋
+Software Engineer | Cloud Enthusiast | Problem Solver
 
+I am a software engineer with 5.5 years of experience specializing in building scalable automation frameworks, optimizing workflows, and eliminating manual effort.
+
+🛠️ Technical Expertise
+
+Automation & Testing: Python, Robot Framework, Selenium, Playwright (Page Object Model).
+
+Data Processing: Automating financial data reconciliation and reporting using Pandas and NumPy.
+
+ERP Systems: Developing and migrating custom modules in Odoo (v7 to v13).
+
+Cloud & DevOps: Containerization and deployment utilizing Docker, AWS (ECS, Fargate), and CI/CD pipelines.
+
+🚀 Featured Projects
+
+AQI Tracker: A global air quality dashboard built with Python and Streamlit, containerized with Docker, and deployed on AWS ECS via an automated CI/CD pipeline.
+
+Local AI Translator: An offline, context-aware language translation application leveraging Streamlit and local LLMs (Ollama).
+
+E2E Web Automation: A robust UI testing framework for SauceDemo using Playwright and POM architecture.
+
+📚 Currently Exploring
+Building data-driven applications with Streamlit, mastering modern cloud deployment strategies, and expanding my knowledge of generative AI (recently completed the GenAI Job Simulation by Forage).
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Aashlesha Jadhav) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aashlesha111@gmail.com) 
