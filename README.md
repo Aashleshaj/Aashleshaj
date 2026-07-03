@@ -1,6 +1,6 @@
 # Hi there, I'm Aashlesha Jadhav 👋
 
-### Software Engineer | Automation and Data speacialist | Problem Solver
+### Software Engineer | Automation and Data specialist | Problem Solver
 
 I am a Software Engineer based in London, UK, with over 5.5 years of experience. I specialize in building scalable automation frameworks, optimizing complex workflows, and eliminating manual effort through code. Currently, I am expanding my expertise in cloud deployment (AWS), containerization, and modern data-driven applications.
 
