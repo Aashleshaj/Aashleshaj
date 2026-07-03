@@ -1,6 +1,6 @@
 # Hi there, I'm Aashlesha Jadhav 👋
 
-### System Engineer | Cloud Enthusiast | Problem Solver
+### Software Engineer | Automation and Data speacialist | Problem Solver
 
 I am a Software Engineer based in London, UK, with over 5.5 years of experience. I specialize in building scalable automation frameworks, optimizing complex workflows, and eliminating manual effort through code. Currently, I am expanding my expertise in cloud deployment (AWS), containerization, and modern data-driven applications.
 
@@ -20,14 +20,18 @@ I am a Software Engineer based in London, UK, with over 5.5 years of experience.
 ![Robot Framework](https://img.shields.io/badge/Robot_Framework-000000?style=for-the-badge&logo=robot-framework&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white) 
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![Pytest](https://img.shields.io/badge/Pytest-2EAD33?style=for-the-badge&logo=pytest&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-**Cloud & DevOps** ![Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+**Cloud & DevOps** 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![qTest](https://img.shields.io/badge/qTest-1E3A8A?style=for-the-badge)
 
 **Systems & Concepts** ![Odoo](https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white)
 ![Agile](https://img.shields.io/badge/Agile-0052CC?style=for-the-badge&logo=jira&logoColor=white)
@@ -37,17 +41,18 @@ I am a Software Engineer based in London, UK, with over 5.5 years of experience.
 
 ### 🔭 Featured Projects
 
+* 🤖 **Autonomous Text-to-SQL Multi-Agent System:** Engineered a private, multi-agent system where LLMs autonomously navigate schemas and execute queries using Model Context Protocol (MCP) tool-use principles. Implemented RAGAS and DeepEval to measure execution latency and SQL generation accuracy.
+* 🚆 **London Transport Reliability Analytics:** Engineered a robust Python pipeline leveraging Pandas and NumPy to clean, process, and analyze high-volume transport disruption and economic datasets, visualized through comprehensive dashboards.
 * 🌍 **AQI Tracker:** An interactive global air quality dashboard built with Python and Streamlit. Containerized with Docker and deployed on AWS ECS (Fargate) utilizing a fully automated CI/CD pipeline.
 * 🗣️ **Gamma Translator (Local AI):** An offline, context-aware language translation application leveraging Streamlit and local LLMs via Ollama.
 * 🛒 **E2E Web Automation:** A robust UI testing framework for the SauceDemo website, structured using Playwright and the Page Object Model (POM) design pattern for high maintainability.
-* 🏦 **Automated Financial Reconciliation:** Engineered a data pipeline using Pandas/NumPy to compare and validate employee data across financial applications, eliminating hours of manual auditing.
 
 ---
 
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aashleshaj&show_icons=true&theme=radical" alt="Aashlesha's GitHub Stats" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=Aashleshaj&show_icons=true&theme=radical" alt="Aashlesha's GitHub Stats" /> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aashleshaj&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
