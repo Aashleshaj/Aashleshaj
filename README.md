@@ -38,7 +38,6 @@ I am a Software Engineer based in London, UK, with over 5.5 years of experience.
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
 **Testing & Visualization** ![JMeter](https://img.shields.io/badge/Apache_JMeter-D22128?style=for-the-badge&logo=apache-jmeter&logoColor=white)
-![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 ---
 
@@ -47,7 +46,7 @@ I am a Software Engineer based in London, UK, with over 5.5 years of experience.
 * 🤖 **Autonomous Text-to-SQL Multi-Agent System:** Engineered a private, multi-agent system where LLMs autonomously navigate schemas and execute queries using Model Context Protocol (MCP) tool-use principles. Implemented RAGAS and DeepEval to measure execution latency and SQL generation accuracy.
 * 🚆 **London Transport Reliability Analytics:** Engineered a robust Python pipeline leveraging Pandas and NumPy to clean, process, and analyze high-volume transport disruption and economic datasets, visualized through comprehensive dashboards. Integrated with text to SQL repository as well to ask real time questions to London transport DB.
 * 🌍 **AQI Tracker:** An interactive global air quality dashboard built with Python and Streamlit. Containerized with Docker and deployed on AWS ECS (Fargate) utilizing a fully automated CI/CD pipeline.
-* 🗣️ **Gamma Translator (Local AI):** An offline, context-aware language translation application leveraging Streamlit and local LLMs via Ollama.
+* 🗣️ **Gamma Translator:** An offline, context-aware language translation application leveraging Streamlit and local LLMs via Ollama.
 * 🛒 **E2E Web Automation:** A robust UI testing framework for the SauceDemo website, structured using Playwright and the Page Object Model (POM) design pattern for high maintainability.
 
 ---
