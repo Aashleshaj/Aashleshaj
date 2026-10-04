@@ -66,5 +66,5 @@ I am a Software Engineer based in London, UK, with over 5.5 years of experience.
 - 💼 **LinkedIn:** [Reach out to me on LinkedIn](#) *(www.linkedin.com/in/aashlesha-jadhav)*
 - ✉️ **Email:** *(aashlesha111@gmail.com)*
 
-⚡ *Fun Fact: I'm currently expanding my knowledge in Generative AI (recently completed the GenAI Job Simulation by Forage) and love solving tricky data validation puzzles!*
+⚡ *Fun Fact: I'm currently expanding my knowledge in AI and love solving tricky data validation puzzles!*
 
