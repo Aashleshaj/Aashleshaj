@@ -1,4 +1,4 @@
-# Hi there, I'm Aashlesha Jadhav 👋
+# Hello there, I'm Aashlesha Jadhav 👋
 
 ### Software Engineer | QA Automation and Data specialist | Problem Solver
 
