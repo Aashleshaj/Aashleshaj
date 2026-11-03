@@ -10,7 +10,7 @@ I am a Software Engineer based in London, UK, with over 5.5 years of experience.
 - 💻 **Automation & Testing:** Designing end-to-end UI and API automation frameworks to streamline testing and business processes.
 - 📊 **Data Processing:** Engineering data reconciliation pipelines (replacing manual audits) for financial applications using Python, Pandas and NumPy.
 - ☁️ **Cloud & DevOps:** Containerizing applications and setting up automated CI/CD deployment pipelines.
-- 🤖 **GenAI & Tooling:** Exploring local LLMs, building interactive dashboards and automating workflows.
+- 🤖 **GenAI & Tooling:** Exploring local LLMs, Compare AI models, building interactive dashboards and automating workflows.
 
 ---
 
