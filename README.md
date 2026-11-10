@@ -53,10 +53,10 @@ I am a Software Engineer based in London, UK, with over 5.5 years of experience.
 
 ### 📈 GitHub Stats
 
-<div align="center">
+<!-- <div align="center">
   <!-- <img src="https://github-readme-stats.vercel.app/api?username=Aashleshaj&show_icons=true&theme=radical" alt="Aashlesha's GitHub Stats" /> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aashleshaj&layout=compact&theme=radical" alt="Top Languages" />
-</div>
+</div> -->
 
 ---
 
