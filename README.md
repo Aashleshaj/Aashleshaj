@@ -58,8 +58,6 @@ I am a Software Engineer based in London, UK, with over 5.5 years of experience.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aashleshaj&layout=compact&theme=radical" alt="Top Languages" />
 </div> -->
 
----
-
 ### 📫 Let's Connect!
 
 - 📍 **Location:** London, United Kingdom
