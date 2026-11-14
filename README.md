@@ -65,4 +65,3 @@ I am a Software Engineer based in London, UK, with over 5.5 years of experience.
 - ✉️ **Email:** *(aashlesha111@gmail.com)*
 
 ⚡ *Fun Fact: I'm currently expanding my knowledge in AI and love solving tricky data validation puzzles!*
-
